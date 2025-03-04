@@ -33,13 +33,3 @@ Example: Let’s compare the cost of storage across AWS, GCP, and Azure for diff
 ![image](https://github.com/user-attachments/assets/2c21ec61-306f-4f48-a0aa-44d709663c82)
 
 
-
-
-
-Key Takeaways:
-
-AWS is usually cheaper in US regions.
-
-European and Asian regions are more expensive due to demand and infrastructure costs.
-
-Google Cloud and Azure have similar pricing, with Azure sometimes being cheaper for Windows-based VMs.
